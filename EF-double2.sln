@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34601.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF-double2", "EF-double2\EF-double2.csproj", "{54BD16F8-2933-4C17-9610-0CE8028DB380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ED-double2.Data", "ED-double2.Data\ED-double2.Data.csproj", "{84D8E2B8-8F1E-4B4C-9FBE-A2AE05DE959B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54BD16F8-2933-4C17-9610-0CE8028DB380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54BD16F8-2933-4C17-9610-0CE8028DB380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54BD16F8-2933-4C17-9610-0CE8028DB380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54BD16F8-2933-4C17-9610-0CE8028DB380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84D8E2B8-8F1E-4B4C-9FBE-A2AE05DE959B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84D8E2B8-8F1E-4B4C-9FBE-A2AE05DE959B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84D8E2B8-8F1E-4B4C-9FBE-A2AE05DE959B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84D8E2B8-8F1E-4B4C-9FBE-A2AE05DE959B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB67AD99-60CA-4815-AE96-94829793D445}
+	EndGlobalSection
+EndGlobal
